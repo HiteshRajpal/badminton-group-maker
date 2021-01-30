@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/badminton-group-maker/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/badminton-group-maker/static/js/main.76e76767.chunk.js",
-    "main.js.map": "/badminton-group-maker/static/js/main.76e76767.chunk.js.map",
+    "main.js": "/badminton-group-maker/static/js/main.ba5f5b28.chunk.js",
+    "main.js.map": "/badminton-group-maker/static/js/main.ba5f5b28.chunk.js.map",
     "runtime-main.js": "/badminton-group-maker/static/js/runtime-main.1b561529.js",
     "runtime-main.js.map": "/badminton-group-maker/static/js/runtime-main.1b561529.js.map",
     "static/js/2.30943da7.chunk.js": "/badminton-group-maker/static/js/2.30943da7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1b561529.js",
     "static/js/2.30943da7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.76e76767.chunk.js"
+    "static/js/main.ba5f5b28.chunk.js"
   ]
 }
