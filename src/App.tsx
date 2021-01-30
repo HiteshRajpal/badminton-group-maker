@@ -20,6 +20,11 @@ function App() {
     setCurrentName(event.currentTarget.value)
   }
 
+  window.onbeforeunload = function() {
+    return "Are you really sure?\nI don't know why anyone would want to leave my beautiful website!";
+  };
+
+
   const createGroupEvent = (event: React.MouseEvent<HTMLInputElement>) => {
     setGroups(createMatches(listOfNames))
   }
